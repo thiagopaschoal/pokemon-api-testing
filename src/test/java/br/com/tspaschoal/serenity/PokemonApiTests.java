@@ -48,7 +48,7 @@ public class PokemonApiTests {
                 {"mewtwo"},
                 {"charizard"},
                 {"blastoise"},
-                {"venasaur"}
+                {"venusaur"}
         };
         return Arrays.asList(data);
     }
