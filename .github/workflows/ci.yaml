@@ -13,4 +13,4 @@ jobs:
         with:
           java-version: 11
       - name: Build and Tests with Maven
-        run: mvn clean verify
+        run: mvn -B clean verify --file pom.xml
